@@ -2,6 +2,7 @@ package com.example.demo;
 
 import javax.persistence.*;
 
+///Entidad importante para el acceso a datos.
 @Entity
 @Table(name = "ciudades", schema = "qa")
 public class Ciudad
